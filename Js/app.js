@@ -31,7 +31,6 @@ function isValidCard (cardNumber){
 function option (userOption){
   switch(true){
     case( userOption === '1'):
-
       var userCardNumber = prompt('Ingrese su número de tarjeta');
       for(var i = 0; i < userCardNumber.length ; i++){
         userCardNumber[i]=parseInt(userCardNumber[i]);
@@ -43,8 +42,6 @@ function option (userOption){
       }
       userCardNumber=userCardNumber.toString();
       alert(isValidCard(userCardNumber));
-      break;
-    case (userOption !== 1 || userOption !== 2):
       break;
   }
 }
