@@ -57,7 +57,9 @@
 
 #### **Diagrama de Flujo del programa**
 
-<https://ibb.co/ngnNiw>
-![](file:///C:/Users/olabo.DESKTOP-OAEP4DQ/Downloads/code2flow_0569c.pdf)
+<file:///C:/Users/olabo.DESKTOP-OAEP4DQ/Documents/ValidandoTarjeta/assets/docs/code2flow_0569c.pdf>
 
 #### **Fuentes**
+<https://es.wikipedia.org/wiki/Algoritmo_de_Luhn>
+<https://www.youtube.com/watch?v=f0zL6Ot9y_w>
+<http://joedicastro.com/pages/markdown.html#mark9>
