@@ -45,4 +45,8 @@
 + ##### Declarar var menu = 'Por favor escriba 1 para VERIFICAR TARJETA \n Por favor escriba 2 para SALIR';
 + ##### Declarar var userOption = prompt(menu), que almacenára la opción que elija el usuario.
 + ##### Llamar a la función *option* y darle como parámetro *userOption*.
-##### Y su condición sea  (userOption !== '2'). 
+##### Y su condición sea  (userOption !== '2').
+
+#### **Diagrama de Flujo del programa**
+
+<file:///C:/Users/olabo.DESKTOP-OAEP4DQ/Downloads/code2flow_0569c.pdf>
