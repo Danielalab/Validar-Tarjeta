@@ -4,6 +4,7 @@ function isValidCard (cardNumber) {
   var sum  = 0; // almacenar la suma de los numeros de la tarjeta
   for(var i = 0 ; i < cardNumbersUpsideDown.length ; i ++){ // bucle para recorrer el array
     cardNumbersUpsideDown[i] = parseInt(cardNumbersUpsideDown[i]); // convertir en un entero el número en esa posición
+
     // si encontramos una posicion par (impar en js)
     if(i === j){
       cardNumbersUpsideDown[j] *= 2; // multiplicar por 2 los numeros de las posiciones pares(impares en js)
