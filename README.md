@@ -58,6 +58,6 @@
 #### **Diagrama de Flujo del programa**
 
 <https://ibb.co/ngnNiw>
-<file:///C:/Users/olabo.DESKTOP-OAEP4DQ/Downloads/code2flow_0569c.pdf>
+![](file:///C:/Users/olabo.DESKTOP-OAEP4DQ/Downloads/code2flow_0569c.pdf)
 
 #### **Fuentes**
