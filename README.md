@@ -49,4 +49,4 @@
 
 #### **Diagrama de Flujo del programa**
 
-[diagram](file:///C:/Users/olabo.DESKTOP-OAEP4DQ/Downloads/code2flow_a3021.svg)
+<file:///C:/Users/olabo.DESKTOP-OAEP4DQ/Downloads/code2flow_a3021.svg>
