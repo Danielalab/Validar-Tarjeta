@@ -49,4 +49,6 @@
 
 #### **Diagrama de Flujo del programa**
 
-<file:///C:/Users/olabo.DESKTOP-OAEP4DQ/Downloads/code2flow_a3021.svg>
+<https://ibb.co/ngnNiw>
+
+#### **Fuentes**
